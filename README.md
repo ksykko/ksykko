@@ -19,6 +19,15 @@
 
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
 
+<h3 align="left">Mobile Development:</h3>
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
+<h3 align="left">Security Standards:</h3>
+
+![OAuth](https://img.shields.io/badge/OAuth-%23326CE5.svg?style=for-the-badge&logo=OAuth&logoColor=white)![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+
+
 <h3 align="left">Data Visualization:</h3>
 
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)

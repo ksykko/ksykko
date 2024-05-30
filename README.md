@@ -53,6 +53,6 @@
 
 <p><img align="left" src="https://github-readme-stats-ken-sagalas-projects.vercel.app/api/top-langs?username=ksykko&show_icons=true&locale=en&layout=compact&theme=gotham" alt="ksykko" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-ken-sagalas-projects.vercel.app/api?username=ksykko&show_icons=true&locale=en&theme=gotham" alt="ksykko" /></p>
+<p><img align="center" src="https://github-readme-stats-ken-sagalas-projects.vercel.app/api?username=ksykko&show_icons=true&locale=en&theme=gotham" alt="ksykko" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ksykko&theme=gotham" alt="ksykko" /></p>

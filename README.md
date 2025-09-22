@@ -2,7 +2,7 @@
 <h2 align="center">Software Engineer | Lifelong Learner</h2>
 
 - 📫 How to reach me **sagala.kendrick@outlook.com**
-- 📄 Know about my experiences and previous works (with pictures) [https://www.linkedin.com/in/kensagala/](https://www.linkedin.com/in/kensagala/)
+- 📄 Know about my experiences and previous works [https://www.linkedin.com/in/kensagala/](https://www.linkedin.com/in/kensagala/)
 
 <h2 align="left">Languages:</h2>
 
